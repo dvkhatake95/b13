@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class HomePage {
 
-	// webdriver instance member
+	// webdriver instance member homePage
 	WebDriver driver;
 
 	// webelement instance members
