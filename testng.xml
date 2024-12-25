@@ -12,7 +12,7 @@
 <listeners>
 <listener class-name="seleniumpractices.ListenrsImpl"></listener>
 </listeners>
-  <test thread-count="3" name="Test" parallel="methods">
+  <test thread-count="3" name="Test" parallel="false">
     <classes>
       <class name="seleniumpractices.ParellelExecution"/>
     </classes>
